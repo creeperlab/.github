@@ -16,8 +16,8 @@ We believe Minecraft is more than just a game; it's a powerful tool for learning
 Want to be part of our community? Help create new resources, fix bugs, or simply share your creations for Creepercraft and other projects. Contact us at [this email here](mailto:support@creepercraft.store)
 
 **Join our community:**
-* **Website:** [CreeperLAB.xyz](https://creeperlab.xyz)
+* **Website:** [CreeperLAB.xyz](https://creeperlab.org)
 * **Twitter:** [@CreeperLAB_](https://x.com/creeperlab_)
-* **Discord:** [CreeperLAB Discord](https://creeperlab.xyz/discord)
+* **Discord:** [CreeperLAB Discord](https://creeperlab.org/discord)
 
 **#Minecraft #CreeperLAB #Modding #Tutorials #Maps**

@@ -17,7 +17,7 @@ Want to be part of our community? Help create new resources, fix bugs, or simply
 
 **Join our community:**
 * **Website:** [CreeperLAB.org](https://creeperlab.org)
-* **Twitter:** [@CreeperLAB_](https://x.com/creeperlab_)
+* **Bluesky:** [@creeperlab.org](https://bsky.app/profile/creeperlab.org)
 * **Discord:** [CreeperLAB Discord](https://creeperlab.org/discord)
 
 **#Minecraft #CreeperLAB #Modding #Tutorials #Maps #Community**

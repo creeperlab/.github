@@ -1,4 +1,4 @@
-# CreeperLAB: A Minecraft Initiative [![img](https://custom-icon-badges.demolab.com/badge/powered_by-CreeperHUB-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.net)
+# CreeperLAB: A Minecraft Initiative [![img](https://custom-icon-badges.demolab.com/badge/powered_by-CreeperHUB-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.com)
 
 ![CreeperLAB](https://creeperhub.net/assets/img/banner.png)
 

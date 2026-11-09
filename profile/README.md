@@ -6,11 +6,11 @@
 
 
 **How to contribute:**
-Want to be part of our community? Help create new resources, fix bugs, or simply share your creations for Creepercraft and other projects. Contact us at [this email here](mhttps://creeperhub.net/contact)
+Want to be part of our community? Help create new resources, fix bugs, or simply share your creations for Creepercraft and other projects. Contact us at [this email here](mailto:hello@creeperhub.net)
 
 **Join our community:**
 * **Website:** [CreeperHUB](https://creeperhub.net)
-* **Bluesky:** [@creeperlab.org](https://bsky.app/profile/creeperlab.org)
-* **Discord:** [CreeperHUB Discord](https://creeperhub.net/discord)
+* **Bluesky:** [@creeperlab.org](https://bsky.app/profile/lab.creepercraft.net)
+* **Discord:** [CreeperHUB Discord](https://tinyy.dev/discord)
 
 **#Minecraft #Servers #Modding #Tutorials #Maps #Community #Feedback #Devs #Gamedevs #MC_Owners**

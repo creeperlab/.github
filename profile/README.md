@@ -9,7 +9,7 @@
 Want to be part of our community? Help create new resources, fix bugs, or simply share your creations for Creepercraft and other projects. Contact us at [this email here](mailto:hello@creeperhub.net)
 
 **Join our community:**
-* **Website:** [CreeperHUB](https://creeperhub.net)
+* **Website:** [CreeperHUB](https://creeperhub.com)
 * **Bluesky:** [@creeperlab.org](https://bsky.app/profile/lab.creepercraft.net)
 * **Discord:** [CreeperHUB Discord](https://tinyy.dev/discord)
 

@@ -10,7 +10,7 @@ Want to be part of our community? Help create new resources, fix bugs, or simply
 
 **Join our community:**
 * **Website:** [CreeperHUB](https://creeperhub.com)
-* **Bluesky:** [@creeperlab.org](https://bsky.app/profile/lab.creepercraft.net)
+* **Bluesky:** [@lab.creepercraft.net](https://bsky.app/profile/lab.creepercraft.net)
 * **Discord:** [CreeperHUB Discord](https://tinyy.dev/discord)
 
 **#Minecraft #Servers #Modding #Tutorials #Maps #Community #Feedback #Devs #Gamedevs #MC_Owners**
